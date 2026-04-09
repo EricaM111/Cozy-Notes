@@ -39,7 +39,7 @@ Developed with care as a full-stack practice project.
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### Backend
 
